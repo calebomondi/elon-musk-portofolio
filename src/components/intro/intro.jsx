@@ -7,10 +7,7 @@ export const Intro = () => {
     <div className="i">
         <div className="i-left">
             <div className="i-left-wrapper">
-                <div className="i-intro-wrapper">
-                    <h2 className="i-intro"></h2>
-                    <h1 className="i-name"><span className="i-intro">I Am</span> Elon Musk</h1>
-                </div>
+                <h1 className="i-name"><span className="i-intro">I Am</span> Elon Musk</h1>
                 <div className="i-title">
                     <div className="i-title-wrapper">
                         <div className="i-title-item">SpaceX</div>
