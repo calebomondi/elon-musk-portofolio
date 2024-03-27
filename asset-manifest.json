@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/elon-musk-portofolio/static/css/main.a4dde6ec.css",
-    "main.js": "/elon-musk-portofolio/static/js/main.918e51bf.js",
+    "main.css": "/elon-musk-portofolio/static/css/main.ec5a4f07.css",
+    "main.js": "/elon-musk-portofolio/static/js/main.196f209d.js",
     "static/media/me.png": "/elon-musk-portofolio/static/media/me.1d90e1d461284604418f.png",
     "index.html": "/elon-musk-portofolio/index.html",
-    "main.a4dde6ec.css.map": "/elon-musk-portofolio/static/css/main.a4dde6ec.css.map",
-    "main.918e51bf.js.map": "/elon-musk-portofolio/static/js/main.918e51bf.js.map"
+    "main.ec5a4f07.css.map": "/elon-musk-portofolio/static/css/main.ec5a4f07.css.map",
+    "main.196f209d.js.map": "/elon-musk-portofolio/static/js/main.196f209d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4dde6ec.css",
-    "static/js/main.918e51bf.js"
+    "static/css/main.ec5a4f07.css",
+    "static/js/main.196f209d.js"
   ]
 }
